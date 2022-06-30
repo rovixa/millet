@@ -247,7 +247,7 @@ header nav a.activo {
 	position: -50%;
 	bottom: -100px;
 	width: 100%;
-	background: rgba(97, 13, 86, 0.445);
+	background: rgb(240, 133, 133);
   }
   .main-content{
 	display: flex;
@@ -278,7 +278,7 @@ header nav a.activo {
 	content: '';
 	height: 2px;
 	width: 30%;
-	background: #f17878;
+	background: #fcd5d5;
 	top: -10px;
   }
   .left .content p{

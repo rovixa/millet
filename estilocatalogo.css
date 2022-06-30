@@ -336,7 +336,7 @@ body{
 	position: -50%;
 	bottom: -100px;
 	width: 100%;
-	background: rgba(107, 16, 95, 0.568);
+	background: rgb(240, 133, 133);
   }
   .main-content{
 	display: flex;
@@ -367,7 +367,7 @@ body{
 	content: '';
 	height: 2px;
 	width: 40%;
-	background: #f17878;
+	background: #fcd5d5;
 	top: -10px;
   }
   .left .content p{
