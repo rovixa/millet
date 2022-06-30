@@ -1,7 +1,7 @@
 :root {
 	--rojo: hsl(0, 74%, 71%);
 	--fondo: url(../img/base52.jpg);                		
-	/* text-shadow: 1px 2px 2px rgb(122, 121, 121); */
+/* 	text-shadow: 1px 2px 2px rgb(122, 121, 121); */
 }
 
 * {
@@ -96,7 +96,7 @@ header nav a.activo {
 }
 
 .pelicula-principal .boton:hover {
-	background: rgb(104, 13, 96);
+	background: rgb(221, 108, 212);
 	color: rgb(235, 102, 102);
 }
 
@@ -247,7 +247,7 @@ header nav a.activo {
 	position: -50%;
 	bottom: -100px;
 	width: 100%;
-	background: rgb(51, 8, 45);
+	background: rgba(97, 13, 86, 0.445);
   }
   .main-content{
 	display: flex;

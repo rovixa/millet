@@ -336,7 +336,7 @@ body{
 	position: -50%;
 	bottom: -100px;
 	width: 100%;
-	background: rgb(51, 8, 45);
+	background: rgba(107, 16, 95, 0.568);
   }
   .main-content{
 	display: flex;
