@@ -382,7 +382,7 @@ body{
   .left .content .social a span{
 	height: 40px;
 	width: 40px;
-	background: #8b0074;
+	background: #dd5ec8;
 	line-height: 40px;
 	text-align: center;
 	font-size: 18px;
@@ -390,11 +390,11 @@ body{
 	transition: 0.3s;
   }
   .left .content .social a span:hover{
-	background: #f14c4c;
+	background: #eb6969;
   }
   .center .content .fas{
 	font-size: 1.4375rem;
-	background: #8b0074;
+	background: #dd5ec8;
 	height: 45px;
 	width: 45px;
 	line-height: 45px;
@@ -404,7 +404,7 @@ body{
 	cursor: pointer;
   }
   .center .content .fas:hover{
-	background: #f14c4c;
+	background: #eb6969;
   }
   .center .content .text{
 	font-size: 1.0625rem;
